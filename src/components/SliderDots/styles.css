@@ -1,0 +1,14 @@
+.sliderDot {
+  width: 15px;
+  height: 15px;
+  margin: 0px 5px 0px 5px;
+  background-color: white;
+  border: solid 2px #c41429;
+  opacity: 0.55;
+  border-radius: 50%;
+}
+
+.activeSliderDot {
+    border: solid 2px #222222;
+    opacity: 1.00;
+}
