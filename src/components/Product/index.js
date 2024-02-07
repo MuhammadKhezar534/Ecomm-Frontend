@@ -1,11 +1,7 @@
 import React from 'react'
 import './styles.css'
 
-
-let 
-
 const Product = ({url,price,discount}) => {
-  const ass=10
     const dPrice= price*(discount/100)
     return ( 
         <div className='p-ctn'>
